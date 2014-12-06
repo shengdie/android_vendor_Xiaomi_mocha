@@ -222,4 +222,8 @@ PRODUCT_COPY_FILES += \
     vendor/Xiaomi/mocha/proprietary/lib/modules/texfat.ko:system/lib/modules/texfat.ko \
     vendor/Xiaomi/mocha/proprietary/lib/modules/tcrypt.ko:system/lib/modules/tcrypt.ko \
     vendor/Xiaomi/mocha/proprietary/lib/modules/gspca_main.ko:system/lib/modules/gspca_main.ko \
-    vendor/Xiaomi/mocha/proprietary/lib/modules/raw_ip_net.ko:system/lib/modules/raw_ip_net.ko
+    vendor/Xiaomi/mocha/proprietary/lib/modules/raw_ip_net.ko:system/lib/modules/raw_ip_net.ko \
+    vendor/Xiaomi/mocha/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
+    vendor/Xiaomi/mocha/proprietary/xbin/shelld:system/xbin/shelld \
+    vendor/Xiaomi/mocha/proprietary/vendor/lib/mediadrm:system/vendor/lib/mediadrm \
+    vendor/Xiaomi/mocha/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
